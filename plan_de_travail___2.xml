@@ -1,0 +1,162 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_x_xs_11_pro___1
+	 *	@date 		0
+	 *	@title 		iPhone X/XS/11 Pro  1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/plan_de_travail___2" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_plan_de_travail___2_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__plan_de_travail___2_ek2"
+					android:background="@drawable/_bg__plan_de_travail___2_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="461dp"
+					android:layout_height="541dp" />
+
+				<View android:id="@+id/rectangle_15"
+					android:background="@drawable/rectangle_15_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="336dp"
+					android:layout_width="464dp"
+					android:layout_height="146dp" />
+
+				<TextView android:id="@+id/____________mon_porte_monnaie__montant_en_attente________0_00fc"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="20dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="353dp"
+					android:layout_height="104dp"
+					android:text="@string/____________mon_porte_monnaie__montant_en_attente________0_00fc_string"
+					 />
+
+				<TextView android:id="@+id/___"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="393dp"
+					android:layout_marginTop="6dp"
+					android:layout_width="5dp"
+					android:layout_height="104dp"
+					android:text="@string/____string"
+					 />
+
+				<ImageView android:id="@+id/ligne_13"
+					android:src="@drawable/ligne_13"
+					android:contentDescription="ligne_13"
+					 android:layout_marginLeft="1dp"
+					 android:layout_marginStart="1dp"
+					android:layout_marginTop="49dp"
+					android:layout_width="460dp"
+					android:layout_height="1dp" />
+
+				<TextView android:id="@+id/_________________________0_00fc______________________montant_disponible_"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="27sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="39dp"
+					android:layout_marginTop="107dp"
+					android:layout_width="288dp"
+					android:layout_height="160.5dp"
+					android:text="@string/_________________________0_00fc______________________montant_disponible__string"
+					 />
+
+				<View android:id="@+id/rectangle_14"
+					android:background="@drawable/rectangle_14_shape"
+					 android:layout_marginLeft="41dp"
+					 android:layout_marginStart="41dp"
+					android:layout_marginTop="245dp"
+					android:layout_width="350dp"
+					android:layout_height="59dp" />
+
+				<TextView android:id="@+id/transferer"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/transferer_color"
+					android:layout_marginLeft="165dp"
+					android:layout_marginTop="256dp"
+					android:layout_width="119dp"
+					android:layout_height="34dp"
+					android:text="@string/transferer_string"
+					 />
+
+				<TextView android:id="@+id/_____solde_initial_______________________0_00fc_1_janv__2021__"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="19dp"
+					android:layout_marginTop="404dp"
+					android:layout_width="382dp"
+					android:layout_height="154dp"
+					android:text="@string/_____solde_initial_______________________0_00fc_1_janv__2021___string"
+					 />
+
+				<ImageView android:id="@+id/ligne_14"
+					android:src="@drawable/ligne_14"
+					android:contentDescription="ligne_14"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="105dp"
+					android:layout_width="460.00439453125dp"
+					android:layout_height="2.9999847412109dp" />
+
+				<TextView android:id="@+id/contr_le_tes_d_penses_et_revenus__sur_kuuza__apr_s_chaque_transaction__la_somme_d_bit_e_ou_cr_dit_e__apparaitra_ici"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/______________________________rechercher_des_articles_color"
+					android:layout_marginLeft="23dp"
+					android:layout_marginTop="338dp"
+					android:layout_width="421dp"
+					android:layout_height="139dp"
+					android:text="@string/contr_le_tes_d_penses_et_revenus__sur_kuuza__apr_s_chaque_transaction__la_somme_d_bit_e_ou_cr_dit_e__apparaitra_ici_string"
+					 />
+
+				<ImageView android:id="@+id/_navicon_ek5"
+					android:src="@drawable/_navicon_ek5"
+					android:contentDescription="_navicon_ek5"
+					 android:layout_marginLeft="14dp"
+					 android:layout_marginStart="14dp"
+					android:layout_marginTop="-15dp"
+					android:layout_width="72dp"
+					android:layout_height="72dp" />
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

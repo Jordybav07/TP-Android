@@ -1,0 +1,149 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_x_xs_11_pro___1
+	 *	@date 		0
+	 *	@title 		iPhone X/XS/11 Pro  1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_x_xs_11_pro___4" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_x_xs_11_pro___4_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__iphone_x_xs_11_pro___4_ek2"
+					android:background="@drawable/_bg__iphone_x_xs_11_pro___4_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="522dp"
+					android:layout_height="762dp" />
+
+				<TextView android:id="@+id/formulaire_d_inscription___nom_d_utilisateur___email___mot_de_passe"
+					android:fontFamily="Verdana"
+					android:textSize="34sp"
+					android:textColor="@color/formulaire_d_inscription___nom_d_utilisateur___email___mot_de_passe_color"
+					android:layout_marginLeft="83dp"
+					android:layout_marginTop="-7dp"
+					android:layout_width="418dp"
+					android:layout_height="376dp"
+					android:text="@string/formulaire_d_inscription___nom_d_utilisateur___email___mot_de_passe_string"
+					 />
+
+				<ImageView android:id="@+id/ligne_3"
+					android:src="@drawable/ligne_3"
+					android:contentDescription="ligne_3"
+					 android:layout_marginLeft="29dp"
+					 android:layout_marginStart="29dp"
+					android:layout_marginTop="147dp"
+					android:layout_width="434dp"
+					android:layout_height="1dp" />
+
+				<ImageView android:id="@+id/ligne_4"
+					android:src="@drawable/ligne_4"
+					android:contentDescription="ligne_4"
+					 android:layout_marginLeft="53dp"
+					 android:layout_marginStart="53dp"
+					android:layout_marginTop="260dp"
+					android:layout_width="416.00479125977dp"
+					android:layout_height="3dp" />
+
+				<ImageView android:id="@+id/ligne_5"
+					android:src="@drawable/ligne_5"
+					android:contentDescription="ligne_5"
+					 android:layout_marginLeft="48dp"
+					 android:layout_marginStart="48dp"
+					android:layout_marginTop="381dp"
+					android:layout_width="408dp"
+					android:layout_height="1dp" />
+
+				<ImageView android:id="@+id/_trac__5"
+					android:src="@drawable/_trac__5"
+					android:contentDescription="_trac__5"
+					 android:layout_marginLeft="112dp"
+					 android:layout_marginStart="112dp"
+					android:layout_marginTop="464dp"
+					android:layout_width="271dp"
+					android:layout_height="93dp" />
+
+				<TextView android:id="@+id/s_inscrire"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="30sp"
+					android:textColor="@color/a_propos__color"
+					android:layout_marginLeft="183dp"
+					android:layout_marginTop="493dp"
+					android:layout_width="125dp"
+					android:layout_height="41dp"
+					android:text="@string/s_inscrire_string"
+					 />
+
+				<ImageView android:id="@+id/ios7_information_outline"
+					android:src="@drawable/ios7_information_outline"
+					android:contentDescription="ios7_information_outline"
+					 android:layout_marginLeft="12dp"
+					 android:layout_marginStart="12dp"
+					android:layout_marginTop="647dp"
+					android:layout_width="58dp"
+					android:layout_height="58dp" />
+
+				<TextView android:id="@+id/_nous_contacter"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="31sp"
+					android:textColor="@color/_nous_contacter_color"
+					android:layout_marginLeft="84dp"
+					android:layout_marginTop="658dp"
+					android:layout_width="214dp"
+					android:layout_height="42dp"
+					android:text="@string/_nous_contacter_string"
+					 />
+
+				<ImageView android:id="@+id/_navicon"
+					android:src="@drawable/_navicon"
+					android:contentDescription="_navicon"
+					 android:layout_marginLeft="11dp"
+					 android:layout_marginStart="11dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="72dp"
+					android:layout_height="72dp" />
+
+				<ImageView android:id="@+id/navicon_ek1"
+					android:src="@drawable/navicon_ek1"
+					android:contentDescription="navicon_ek1"
+					 android:layout_marginLeft="11dp"
+					 android:layout_marginStart="11dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="72dp"
+					android:layout_height="72dp" />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

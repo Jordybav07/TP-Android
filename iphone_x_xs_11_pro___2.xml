@@ -1,0 +1,189 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_x_xs_11_pro___1
+	 *	@date 		0
+	 *	@title 		iPhone X/XS/11 Pro  1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_x_xs_11_pro___2" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_x_xs_11_pro___2_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__iphone_x_xs_11_pro___2_ek2"
+					android:background="@drawable/_bg__iphone_x_xs_11_pro___2_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="934dp"
+					android:layout_height="762dp" />
+
+				<TextView android:id="@+id/vends_ton_article__commence_par_ajouter_une_photo__"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="108dp"
+					android:layout_marginTop="45dp"
+					android:layout_width="424dp"
+					android:layout_height="174dp"
+					android:text="@string/vends_ton_article__commence_par_ajouter_une_photo___string"
+					 />
+
+				<ImageView android:id="@+id/trac__6"
+					android:src="@drawable/trac__6"
+					android:contentDescription="trac__6"
+					 android:layout_marginLeft="59dp"
+					 android:layout_marginStart="59dp"
+					android:layout_marginTop="189dp"
+					android:layout_width="839.5dp"
+					android:layout_height="256dp" />
+
+				<View android:id="@+id/rectangle_10"
+					android:background="@drawable/rectangle_10_shape"
+					 android:layout_marginLeft="90dp"
+					 android:layout_marginStart="90dp"
+					android:layout_marginTop="275dp"
+					android:layout_width="298dp"
+					android:layout_height="76dp" />
+
+				<View android:id="@+id/rectangle_11"
+					android:background="@drawable/rectangle_11_shape"
+					 android:layout_marginLeft="571dp"
+					 android:layout_marginStart="571dp"
+					android:layout_marginTop="279dp"
+					android:layout_width="300dp"
+					android:layout_height="78dp" />
+
+				<TextView android:id="@+id/choisir_une_video"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="152dp"
+					android:layout_marginTop="296dp"
+					android:layout_width="197dp"
+					android:layout_height="34dp"
+					android:text="@string/choisir_une_video_string"
+					 />
+
+				<TextView android:id="@+id/choisir_une_photo"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="622dp"
+					android:layout_marginTop="298dp"
+					android:layout_width="201dp"
+					android:layout_height="34dp"
+					android:text="@string/choisir_une_photo_string"
+					 />
+
+				<TextView android:id="@+id/decris_ton_article_"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="54dp"
+					android:layout_marginTop="476dp"
+					android:layout_width="232dp"
+					android:layout_height="69dp"
+					android:text="@string/decris_ton_article__string"
+					 />
+
+				<TextView android:id="@+id/__"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="358dp"
+					android:layout_marginTop="470dp"
+					android:layout_width="5dp"
+					android:layout_height="69dp"
+					android:text="@string/___string"
+					 />
+
+				<ImageView android:id="@+id/trac__7"
+					android:src="@drawable/trac__7"
+					android:contentDescription="trac__7"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="551dp"
+					android:layout_width="936dp"
+					android:layout_height="152dp" />
+
+				<TextView android:id="@+id/titre__________________________________________ex__robe_en_dentelle_blanche__d_cris_ton_article_en_d_tail_________ex__peu_port___en_tr_s_bonne__tat__taille_s"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/titre__________________________________________ex__robe_en_dentelle_blanche__d_cris_ton_article_en_d_tail_________ex__peu_port___en_tr_s_bonne__tat__taille_s_color"
+					android:layout_marginLeft="84dp"
+					android:layout_marginTop="574dp"
+					android:layout_width="846dp"
+					android:layout_height="104dp"
+					android:text="@string/titre__________________________________________ex__robe_en_dentelle_blanche__d_cris_ton_article_en_d_tail_________ex__peu_port___en_tr_s_bonne__tat__taille_s_string"
+					 />
+
+				<ImageView android:id="@+id/ligne_6"
+					android:src="@drawable/ligne_6"
+					android:contentDescription="ligne_6"
+					 android:layout_marginLeft="58dp"
+					 android:layout_marginStart="58dp"
+					android:layout_marginTop="623dp"
+					android:layout_width="870.0068359375dp"
+					android:layout_height="7dp" />
+
+				<ImageView android:id="@+id/ios7_camera"
+					android:src="@drawable/ios7_camera"
+					android:contentDescription="ios7_camera"
+					 android:layout_marginLeft="584dp"
+					 android:layout_marginStart="584dp"
+					android:layout_marginTop="294dp"
+					android:layout_width="38dp"
+					android:layout_height="38dp" />
+
+				<ImageView android:id="@+id/ios7_film"
+					android:src="@drawable/ios7_film"
+					android:contentDescription="ios7_film"
+					 android:layout_marginLeft="110dp"
+					 android:layout_marginStart="110dp"
+					android:layout_marginTop="292dp"
+					android:layout_width="41dp"
+					android:layout_height="41dp" />
+
+				<ImageView android:id="@+id/_navicon_ek3"
+					android:src="@drawable/_navicon_ek3"
+					android:contentDescription="_navicon_ek3"
+					 android:layout_marginLeft="24dp"
+					 android:layout_marginStart="24dp"
+					android:layout_marginTop="21dp"
+					android:layout_width="84dp"
+					android:layout_height="84dp" />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

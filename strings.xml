@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_x_xs_11_pro___1 strings -->
+
+	<string name="app_name">iPhone X/XS/11 Pro  1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="bienvenue_sur__string">Bienvenue sur </string>
+	<string name="kuuza_string">Kuuza</string>
+	<string name="transformer_votre_valise_string">Transformer votre valise</string>
+	<string name="kuuza_ek1_string">Kuuza</string>
+	<string name="femmes________hommes_________enfants_string">Femmes        hommes         Enfants</string>
+	<string name="a_propos__string">A propos </string>
+	<string name="_s_inscrire__i_se_connecter_string">Sinscrire  I Se connecter</string>
+	<string name="_mon__compte_string">Mon  compte</string>
+	<string name="articles_string">Articles</string>
+	<string name="_12000_00fc_43_45_string">12000,00fc43/45</string>
+	<string name="_5000_00fc_s_36_8_string">5000,00fcS/36/8</string>
+	<string name="_10000_00fc_39_40_string">10000,00fc39/40</string>
+	<string name="_3000_00fc_m_38_10_string">3000,00fcM/38/10</string>
+	<string name="_4000_00fc_string">4000,00fc</string>
+	<string name="_15000_00fc_xxl_44_16_string">15000,00fcXXL/44/16</string>
+	<string name="_2500_00fc_xs_34_6_string">2500,00fcXS/34/6</string>
+	<string name="_10_000_00_fc_m_string">10 000,00 fcM</string>
+	<string name="_2000_00fc_12ans_152_150cm_string">2000,00fc12ans/152-150cm</string>
+	<string name="__1500_00fc_8ans_pyjaama_s_string">1500,00fc8ansPyjaama s</string>
+	<string name="______________________________rechercher_des_articles_string">                             Rechercher des articles</string>
+	<string name="formulaire_d_inscription___nom_d_utilisateur___email___mot_de_passe_string">Formulaire dinscription Nom dutilisateurEmailMot de passe</string>
+	<string name="s_inscrire_string">Sinscrire</string>
+	<string name="_nous_contacter_string">Nous contacter</string>
+	<string name="vends_ton_article__commence_par_ajouter_une_photo___string">Vends ton articleCOMMENCE PAR AJOUTER UNE PHOTO</string>
+	<string name="choisir_une_video_string">Choisir une video</string>
+	<string name="choisir_une_photo_string">Choisir une photo</string>
+	<string name="decris_ton_article__string">DECRIS TON ARTICLE</string>
+	<string name="___string"></string>
+	<string name="titre__________________________________________ex__robe_en_dentelle_blanche__d_cris_ton_article_en_d_tail_________ex__peu_port___en_tr_s_bonne__tat__taille_s_string">Titre                                          ex: Robe en dentelle blancheDcris ton article en dtail         ex: peu port, en trs bonne tat, taille S</string>
+	<string name="__________kuuza_est_une_plateforme_que_nous__mettons___la_disposition_de_tout__client_qui_d_sire_vendre_son_produit__ou_encore_d_acheter_un_produit_d_un__autre_client_en_ligne__notre_but_est_de_satisfaire_le_besoin_du_client_en_lui_offrant_une_opportunit__d_string">      Kuuza est une plateforme que nous mettons  la disposition de tout client qui dsire vendre son produit ou encore dacheter un produit dun autre client en ligne.Notre but est de satisfaire le besoindu client en lui offrant une opportunitde vendre un produit.</string>
+	<string name="__a_propos_de_nous_string">A propos de nous</string>
+	<string name="pour_plus_de_details__contacter__nous_au_0994312466__0850220336_string">Pour plus de details, contacter nous au 0994312466/ 0850220336</string>
+	<string name="n_h_siter_surtout_pas_de_passer_a__nos_bureaux_av_kaseba__q_gambela_n_45_string">Nhsiter surtout pas de passer a nos bureauxAv/KASEBA, Q/GAMBELA N.45</string>
+	<string name="____________mon_porte_monnaie__montant_en_attente________0_00fc_string">           Mon porte-monnaieMontant en attente        0,00fc</string>
+	<string name="____string"></string>
+	<string name="_________________________0_00fc______________________montant_disponible__string">                       0,00fc                     Montant disponible</string>
+	<string name="transferer_string">Transferer</string>
+	<string name="_____solde_initial_______________________0_00fc_1_janv__2021___string">Solde initial                       0,00fc1 janv. 2021 </string>
+	<string name="contr_le_tes_d_penses_et_revenus__sur_kuuza__apr_s_chaque_transaction__la_somme_d_bit_e_ou_cr_dit_e__apparaitra_ici_string">Contrle tes dpenses et revenus sur kuuza;,aprs chaque transaction,la somme dbite ou crdite apparaitra ici</string>
+	<string name="_______________________________________________________reduction_sur_les_lots___________________________________________________________________choisis_tes_r_ductions_string">                                                      Reduction sur les lots                                                                 Choisis tes rductions</string>
+	<string name="___ek1_string"></string>
+	<string name="_______________________________________________________________2_articles___________________________________________20__string">                                                              2 articles                                           20%</string>
+	<string name="_________string">       </string>
+	<string name="_3_articles_string">3 articles</string>
+	<string name="_______________________30__string">                      30%</string>
+	<string name="_5_articles____________________________________________50__string">5 articles                                            50%</string>
+	<string name="________________reduction_pour_string">               REDUCTION POUR</string>
+	<string name="______________________________________________________tu_peux_accorder_des_r_ductions_croissante____________________________________________________________en_commen_ant_par_le_nombre_d_article_que_______________________________________________________plus__string">                                                     Tu peux accorder des rductions croissante                                                           en commenant par le nombre darticle que                                                      Plus tes rductions sont intressante, plus      tu vendras </string>
+	<string name="_____________________personnalisation__string">                    Personnalisation</string>
+	<string name="_mon_porte_monnaie__string">Mon porte-monnaie</string>
+	<string name="_mes_ventes_et_achats_string">Mes ventes et achats</string>
+	<string name="_________________________________________________________r_duction_sur_les_lots________________string">                                                       Rduction sur les lots          </string>
+	<string name="forum__string">Forum</string>
+	<string name="_a_propos_de_kuuza__string">A propos de kuuza</string>
+	<string name="mon_profil_string">Mon profil</string>
+</resources>

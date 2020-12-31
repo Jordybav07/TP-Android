@@ -1,0 +1,113 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_x_xs_11_pro___1
+	 *	@date 		0
+	 *	@title 		iPhone X/XS/11 Pro  1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/plan_de_travail___1" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_plan_de_travail___1_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__plan_de_travail___1_ek2"
+					android:background="@drawable/_bg__plan_de_travail___1_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="436dp"
+					android:layout_height="553dp" />
+
+				<TextView android:id="@+id/__________kuuza_est_une_plateforme_que_nous__mettons___la_disposition_de_tout__client_qui_d_sire_vendre_son_produit__ou_encore_d_acheter_un_produit_d_un__autre_client_en_ligne__notre_but_est_de_satisfaire_le_besoin_du_client_en_lui_offrant_une_opportunit__d"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="23sp"
+					android:textColor="@color/______________________________rechercher_des_articles_color"
+					android:layout_marginLeft="22dp"
+					android:layout_marginTop="13dp"
+					android:layout_width="413dp"
+					android:layout_height="352dp"
+					android:text="@string/__________kuuza_est_une_plateforme_que_nous__mettons___la_disposition_de_tout__client_qui_d_sire_vendre_son_produit__ou_encore_d_acheter_un_produit_d_un__autre_client_en_ligne__notre_but_est_de_satisfaire_le_besoin_du_client_en_lui_offrant_une_opportunit__d_string"
+					 />
+
+				<TextView android:id="@+id/__a_propos_de_nous"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/______________________________rechercher_des_articles_color"
+					android:layout_marginLeft="92dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="194dp"
+					android:layout_height="69dp"
+					android:text="@string/__a_propos_de_nous_string"
+					 />
+
+				<ImageView android:id="@+id/_navicon_ek4"
+					android:src="@drawable/_navicon_ek4"
+					android:contentDescription="_navicon_ek4"
+					 android:layout_marginLeft="10dp"
+					 android:layout_marginStart="10dp"
+					android:layout_marginTop="4dp"
+					android:layout_width="84dp"
+					android:layout_height="84dp" />
+
+				<ImageView android:id="@+id/trac__8"
+					android:src="@drawable/trac__8"
+					android:contentDescription="trac__8"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="382dp"
+					android:layout_width="436dp"
+					android:layout_height="171dp" />
+
+				<TextView android:id="@+id/pour_plus_de_details__contacter__nous_au_0994312466__0850220336"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/______________________________rechercher_des_articles_color"
+					android:layout_marginLeft="22dp"
+					android:layout_marginTop="389dp"
+					android:layout_width="381dp"
+					android:layout_height="69dp"
+					android:text="@string/pour_plus_de_details__contacter__nous_au_0994312466__0850220336_string"
+					 />
+
+				<TextView android:id="@+id/n_h_siter_surtout_pas_de_passer_a__nos_bureaux_av_kaseba__q_gambela_n_45"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="25sp"
+					android:textColor="@color/n_h_siter_surtout_pas_de_passer_a__nos_bureaux_av_kaseba__q_gambela_n_45_color"
+					android:layout_marginLeft="22dp"
+					android:layout_marginTop="453dp"
+					android:layout_width="377dp"
+					android:layout_height="104dp"
+					android:text="@string/n_h_siter_surtout_pas_de_passer_a__nos_bureaux_av_kaseba__q_gambela_n_45_string"
+					 />
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

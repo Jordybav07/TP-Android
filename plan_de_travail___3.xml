@@ -1,0 +1,196 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_x_xs_11_pro___1
+	 *	@date 		0
+	 *	@title 		iPhone X/XS/11 Pro  1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/plan_de_travail___3" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_plan_de_travail___3_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__plan_de_travail___3_ek2"
+					android:background="@drawable/_bg__plan_de_travail___3_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="503dp"
+					android:layout_height="483dp" />
+
+				<TextView android:id="@+id/_______________________________________________________reduction_sur_les_lots___________________________________________________________________choisis_tes_r_ductions"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="-302dp"
+					android:layout_marginTop="5dp"
+					android:layout_width="651dp"
+					android:layout_height="104dp"
+					android:text="@string/_______________________________________________________reduction_sur_les_lots___________________________________________________________________choisis_tes_r_ductions_string"
+					 />
+
+				<TextView android:id="@+id/___ek1"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="419dp"
+					android:layout_marginTop="3dp"
+					android:layout_width="5dp"
+					android:layout_height="69dp"
+					android:text="@string/___ek1_string"
+					 />
+
+				<View android:id="@+id/rectangle_16"
+					android:background="@drawable/rectangle_16_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="114dp"
+					android:layout_width="505dp"
+					android:layout_height="90dp" />
+
+				<ImageView android:id="@+id/trac__2"
+					android:src="@drawable/trac__2"
+					android:contentDescription="trac__2"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="345dp"
+					android:layout_width="504.5478515625dp"
+					android:layout_height="139.61206054688dp" />
+
+				<TextView android:id="@+id/_______________________________________________________________2_articles___________________________________________20_"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="-455dp"
+					android:layout_marginTop="220dp"
+					android:layout_width="941dp"
+					android:layout_height="34dp"
+					android:text="@string/_______________________________________________________________2_articles___________________________________________20__string"
+					 />
+
+				<TextView android:id="@+id/________"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="-55dp"
+					android:layout_marginTop="254dp"
+					android:layout_width="57dp"
+					android:layout_height="34dp"
+					android:text="@string/_________string"
+					 />
+
+				<TextView android:id="@+id/_3_articles"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="16dp"
+					android:layout_marginTop="260dp"
+					android:layout_width="109dp"
+					android:layout_height="34dp"
+					android:text="@string/_3_articles_string"
+					 />
+
+				<TextView android:id="@+id/_______________________30_"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="277dp"
+					android:layout_marginTop="255dp"
+					android:layout_width="211dp"
+					android:layout_height="34dp"
+					android:text="@string/_______________________30__string"
+					 />
+
+				<TextView android:id="@+id/_5_articles____________________________________________50_"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="25sp"
+					android:textColor="@color/vends_ton_article__commence_par_ajouter_une_photo___color"
+					android:layout_marginLeft="5dp"
+					android:layout_marginTop="293dp"
+					android:layout_width="481dp"
+					android:layout_height="34dp"
+					android:text="@string/_5_articles____________________________________________50__string"
+					 />
+
+				<TextView android:id="@+id/________________reduction_pour"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="25sp"
+					android:textColor="@color/______________________________rechercher_des_articles_color"
+					android:layout_marginLeft="-106dp"
+					android:layout_marginTop="150dp"
+					android:layout_width="315dp"
+					android:layout_height="34dp"
+					android:text="@string/________________reduction_pour_string"
+					 />
+
+				<TextView android:id="@+id/______________________________________________________tu_peux_accorder_des_r_ductions_croissante____________________________________________________________en_commen_ant_par_le_nombre_d_article_que_______________________________________________________plus_"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="24sp"
+					android:textColor="@color/______________________________________________________tu_peux_accorder_des_r_ductions_croissante____________________________________________________________en_commen_ant_par_le_nombre_d_article_que_______________________________________________________plus__color"
+					android:layout_marginLeft="-416dp"
+					android:layout_marginTop="349dp"
+					android:layout_width="917dp"
+					android:layout_height="132dp"
+					android:text="@string/______________________________________________________tu_peux_accorder_des_r_ductions_croissante____________________________________________________________en_commen_ant_par_le_nombre_d_article_que_______________________________________________________plus__string"
+					 />
+
+				<ImageView android:id="@+id/_navicon_ek6"
+					android:src="@drawable/_navicon_ek6"
+					android:contentDescription="_navicon_ek6"
+					 android:layout_marginLeft="14dp"
+					 android:layout_marginStart="14dp"
+					android:layout_marginTop="-9dp"
+					android:layout_width="72dp"
+					android:layout_height="72dp" />
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

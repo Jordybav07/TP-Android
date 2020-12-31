@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_x_xs_11_pro___1 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__iphone_x_xs_11_pro___1_ek2_color">#dcd5d5</color>
+	<color name="bienvenue_sur__color">#060606</color>
+	<color name="kuuza_color">#c52f53</color>
+	<color name="femmes________hommes_________enfants_color">#0b0c0c</color>
+	<color name="a_propos__color">#010101</color>
+	<color name="rectangle_5_color">#c52f53</color>
+	<color name="_s_inscrire__i_se_connecter_color">#212121</color>
+	<color name="_mon__compte_color">#0d0d0d</color>
+	<color name="articles_color">#090909</color>
+	<color name="_12000_00fc_43_45_color">#413e3e</color>
+	<color name="______________________________rechercher_des_articles_color">#000000</color>
+	<color name="formulaire_d_inscription___nom_d_utilisateur___email___mot_de_passe_color">#807b7b</color>
+	<color name="_nous_contacter_color">#bc1a00</color>
+	<color name="vends_ton_article__commence_par_ajouter_une_photo___color">#0a0101</color>
+	<color name="rectangle_10_color">#8f3535</color>
+	<color name="titre__________________________________________ex__robe_en_dentelle_blanche__d_cris_ton_article_en_d_tail_________ex__peu_port___en_tr_s_bonne__tat__taille_s_color">#685b5b</color>
+	<color name="n_h_siter_surtout_pas_de_passer_a__nos_bureaux_av_kaseba__q_gambela_n_45_color">#0a0a0a</color>
+	<color name="rectangle_15_color">#af9696</color>
+	<color name="rectangle_14_color">#e53d3d</color>
+	<color name="transferer_color">#e7f1f2</color>
+	<color name="rectangle_16_color">#147575</color>
+	<color name="______________________________________________________tu_peux_accorder_des_r_ductions_croissante____________________________________________________________en_commen_ant_par_le_nombre_d_article_que_______________________________________________________plus__color">#070707</color>
+	<color name="rectangle_17_color">#ffffff</color>
+	<color name="_____________________personnalisation__color">#565151</color>
+</resources>

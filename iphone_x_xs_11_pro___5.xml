@@ -1,0 +1,419 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_x_xs_11_pro___1
+	 *	@date 		0
+	 *	@title 		iPhone X/XS/11 Pro  1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_x_xs_11_pro___5" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_x_xs_11_pro___5_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__iphone_x_xs_11_pro___5_ek2"
+					android:background="@drawable/_bg__iphone_x_xs_11_pro___5_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="1283dp"
+					android:layout_height="959dp" />
+
+				<ImageView android:id="@+id/_608846f60842650f828900a74d9e52fd"
+					android:src="@drawable/_608846f60842650f828900a74d9e52fd"
+					android:contentDescription="_608846f60842650f828900a74d9e52fd"
+					 android:layout_marginLeft="13dp"
+					 android:layout_marginStart="13dp"
+					android:layout_marginTop="503dp"
+					android:layout_width="232dp"
+					android:layout_height="278dp" />
+
+				<TextView android:id="@+id/kuuza_ek1"
+					android:fontFamily="Kristen ITC"
+					android:textSize="40sp"
+					android:shadowRadius="6"
+					android:shadowColor="#7e2020"
+					android:shadowDx="0"
+					android:shadowDy="3"
+					android:textColor="@color/kuuza_color"
+					android:layout_marginLeft="12dp"
+					android:layout_marginTop="10dp"
+					android:layout_width="113dp"
+					android:layout_height="62dp"
+					android:text="@string/kuuza_ek1_string"
+					 />
+
+				<TextView android:id="@+id/femmes________hommes_________enfants"
+					android:fontFamily="Bradley Hand ITC"
+					android:textSize="40sp"
+					android:textColor="@color/femmes________hommes_________enfants_color"
+					android:layout_marginLeft="77dp"
+					android:layout_marginTop="82dp"
+					android:layout_width="427dp"
+					android:layout_height="60dp"
+					android:text="@string/femmes________hommes_________enfants_string"
+					 />
+
+				<TextView android:id="@+id/a_propos_"
+					android:fontFamily="Bradley Hand ITC"
+					android:textSize="40sp"
+					android:textColor="@color/a_propos__color"
+					android:layout_marginLeft="530dp"
+					android:layout_marginTop="82dp"
+					android:layout_width="119dp"
+					android:layout_height="60dp"
+					android:text="@string/a_propos__string"
+					 />
+
+				<View android:id="@+id/rectangle_5"
+					android:background="@drawable/rectangle_5_shape"
+					 android:alpha="0.9294"
+					 android:layout_marginLeft="848dp"
+					 android:layout_marginStart="848dp"
+					android:layout_marginTop="18dp"
+					android:layout_width="260dp"
+					android:layout_height="45dp" />
+
+				<TextView android:id="@+id/_s_inscrire__i_se_connecter"
+					android:fontFamily="Trebuchet MS"
+					android:textSize="28sp"
+					android:textColor="@color/_s_inscrire__i_se_connecter_color"
+					android:layout_marginLeft="864dp"
+					android:layout_marginTop="21dp"
+					android:layout_width="229dp"
+					android:layout_height="38dp"
+					android:text="@string/_s_inscrire__i_se_connecter_string"
+					 />
+
+				<ImageView android:id="@+id/ligne_2"
+					android:src="@drawable/ligne_2"
+					android:contentDescription="ligne_2"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="76dp"
+					android:layout_width="1283.0085449219dp"
+					android:layout_height="11.999969482422dp" />
+
+				<ImageView android:id="@+id/_813e64ff32157bb7dda740c04fe10958"
+					android:src="@drawable/_813e64ff32157bb7dda740c04fe10958"
+					android:contentDescription="_813e64ff32157bb7dda740c04fe10958"
+					 android:layout_marginLeft="295dp"
+					 android:layout_marginStart="295dp"
+					android:layout_marginTop="496dp"
+					android:layout_width="216dp"
+					android:layout_height="288.5dp" />
+
+				<ImageView android:id="@+id/_5c0e74e08c3e4e78357ccc04180eb48a"
+					android:src="@drawable/_5c0e74e08c3e4e78357ccc04180eb48a"
+					android:contentDescription="_5c0e74e08c3e4e78357ccc04180eb48a"
+					 android:layout_marginLeft="319dp"
+					 android:layout_marginStart="319dp"
+					android:layout_marginTop="157dp"
+					android:layout_width="194dp"
+					android:layout_height="257.5dp" />
+
+				<ImageView android:id="@+id/suesses_crop_top_von_shein_5ff847"
+					android:src="@drawable/suesses_crop_top_von_shein_5ff847"
+					android:contentDescription="suesses_crop_top_von_shein_5ff847"
+					 android:layout_marginLeft="800dp"
+					 android:layout_marginStart="800dp"
+					android:layout_marginTop="150dp"
+					android:layout_width="199dp"
+					android:layout_height="265.5dp" />
+
+				<View android:id="@+id/rectangle_8"
+					android:background="@drawable/rectangle_8_shape"
+					 android:alpha="0.9294"
+					 android:layout_marginLeft="1120dp"
+					 android:layout_marginStart="1120dp"
+					android:layout_marginTop="18dp"
+					android:layout_width="148dp"
+					android:layout_height="42dp" />
+
+				<TextView android:id="@+id/_mon__compte"
+					android:fontFamily="Trebuchet MS"
+					android:alpha="0.9294"
+					 android:textSize="27sp"
+					android:textColor="@color/_mon__compte_color"
+					android:layout_marginLeft="1132dp"
+					android:layout_marginTop="20dp"
+					android:layout_width="128dp"
+					android:layout_height="36dp"
+					android:text="@string/_mon__compte_string"
+					 />
+
+				<View android:id="@+id/rectangle_26"
+					android:background="@drawable/rectangle_26_shape"
+					 android:alpha="0.9294"
+					 android:layout_marginLeft="153dp"
+					 android:layout_marginStart="153dp"
+					android:layout_marginTop="11dp"
+					android:layout_width="668dp"
+					android:layout_height="56dp" />
+
+				<ImageView android:id="@+id/ligne_15"
+					android:src="@drawable/ligne_15"
+					android:contentDescription="ligne_15"
+					 android:layout_marginLeft="319dp"
+					 android:layout_marginStart="319dp"
+					android:layout_marginTop="13dp"
+					android:layout_width="1dp"
+					android:layout_height="53dp" />
+
+				<TextView android:id="@+id/articles"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="25sp"
+					android:textColor="@color/articles_color"
+					android:layout_marginLeft="178dp"
+					android:layout_marginTop="24dp"
+					android:layout_width="91dp"
+					android:layout_height="34dp"
+					android:text="@string/articles_string"
+					 />
+
+				<ImageView android:id="@+id/arrow_down_b"
+					android:src="@drawable/arrow_down_b"
+					android:contentDescription="arrow_down_b"
+					 android:layout_marginLeft="270dp"
+					 android:layout_marginStart="270dp"
+					android:layout_marginTop="23dp"
+					android:layout_width="35dp"
+					android:layout_height="35dp" />
+
+				<ImageView android:id="@+id/ios7_search_strong"
+					android:src="@drawable/ios7_search_strong"
+					android:contentDescription="ios7_search_strong"
+					 android:layout_marginLeft="771dp"
+					 android:layout_marginStart="771dp"
+					android:layout_marginTop="25dp"
+					android:layout_width="27.467041015625dp"
+					android:layout_height="27.467102050781dp" />
+
+				<ImageView android:id="@+id/_02_00d40_zwprcsscm2shotakqdndszbu___copie"
+					android:src="@drawable/_02_00d40_zwprcsscm2shotakqdndszbu___copie"
+					android:contentDescription="_02_00d40_zwprcsscm2shotakqdndszbu___copie"
+					 android:layout_marginLeft="796dp"
+					 android:layout_marginStart="796dp"
+					android:layout_marginTop="500dp"
+					android:layout_width="214dp"
+					android:layout_height="285dp" />
+
+				<ImageView android:id="@+id/_01_00dfa_hndcd3hwpdmawpkiugyacfaq"
+					android:src="@drawable/_01_00dfa_hndcd3hwpdmawpkiugyacfaq"
+					android:contentDescription="_01_00dfa_hndcd3hwpdmawpkiugyacfaq"
+					 android:layout_marginLeft="1051dp"
+					 android:layout_marginStart="1051dp"
+					android:layout_marginTop="142dp"
+					android:layout_width="205dp"
+					android:layout_height="274dp" />
+
+				<ImageView android:id="@+id/image_1"
+					android:src="@drawable/image_1"
+					android:contentDescription="image_1"
+					 android:layout_marginLeft="641dp"
+					 android:layout_marginStart="641dp"
+					android:layout_marginTop="379dp"
+					android:layout_width="1dp"
+					android:layout_height="1dp" />
+
+				<ImageView android:id="@+id/cb1c88773c53f2ac256067a07a1a5fc8"
+					android:src="@drawable/cb1c88773c53f2ac256067a07a1a5fc8"
+					android:contentDescription="cb1c88773c53f2ac256067a07a1a5fc8"
+					 android:layout_marginLeft="1037dp"
+					 android:layout_marginStart="1037dp"
+					android:layout_marginTop="488dp"
+					android:layout_width="220dp"
+					android:layout_height="293dp" />
+
+				<ImageView android:id="@+id/ceed0e6394738dc72ee75388d04c02e0"
+					android:src="@drawable/ceed0e6394738dc72ee75388d04c02e0"
+					android:contentDescription="ceed0e6394738dc72ee75388d04c02e0"
+					 android:layout_marginLeft="12dp"
+					 android:layout_marginStart="12dp"
+					android:layout_marginTop="156dp"
+					android:layout_width="267dp"
+					android:layout_height="259dp" />
+
+				<ImageView android:id="@+id/_01_00e3e_xk9bckwtalda2jy6rzzcxxw3"
+					android:src="@drawable/_01_00e3e_xk9bckwtalda2jy6rzzcxxw3"
+					android:contentDescription="_01_00e3e_xk9bckwtalda2jy6rzzcxxw3"
+					 android:layout_marginLeft="569dp"
+					 android:layout_marginStart="569dp"
+					android:layout_marginTop="156dp"
+					android:layout_width="194dp"
+					android:layout_height="259dp" />
+
+				<ImageView android:id="@+id/images"
+					android:src="@drawable/images"
+					android:contentDescription="images"
+					 android:layout_marginLeft="547dp"
+					 android:layout_marginStart="547dp"
+					android:layout_marginTop="495dp"
+					android:layout_width="216dp"
+					android:layout_height="288.5dp" />
+
+				<TextView android:id="@+id/_12000_00fc_43_45"
+					android:fontFamily="Trebuchet MS"
+					android:alpha="0.9294"
+					 android:textSize="30sp"
+					android:textColor="@color/_12000_00fc_43_45_color"
+					android:layout_marginLeft="67dp"
+					android:layout_marginTop="413dp"
+					android:layout_width="120dp"
+					android:layout_height="76dp"
+					android:text="@string/_12000_00fc_43_45_string"
+					 />
+
+				<TextView android:id="@+id/_5000_00fc_s_36_8"
+					android:fontFamily="Trebuchet MS"
+					android:alpha="0.9294"
+					 android:textSize="30sp"
+					android:textColor="@color/_12000_00fc_43_45_color"
+					android:layout_marginLeft="367dp"
+					android:layout_marginTop="427dp"
+					android:layout_width="108dp"
+					android:layout_height="76dp"
+					android:text="@string/_5000_00fc_s_36_8_string"
+					 />
+
+				<TextView android:id="@+id/_10000_00fc_39_40"
+					android:fontFamily="Trebuchet MS"
+					android:alpha="0.9294"
+					 android:textSize="30sp"
+					android:textColor="@color/_12000_00fc_43_45_color"
+					android:layout_marginLeft="623dp"
+					android:layout_marginTop="421dp"
+					android:layout_width="120dp"
+					android:layout_height="76dp"
+					android:text="@string/_10000_00fc_39_40_string"
+					 />
+
+				<TextView android:id="@+id/_3000_00fc_m_38_10"
+					android:fontFamily="Trebuchet MS"
+					android:alpha="0.9294"
+					 android:textSize="30sp"
+					android:textColor="@color/_12000_00fc_43_45_color"
+					android:layout_marginLeft="861dp"
+					android:layout_marginTop="421dp"
+					android:layout_width="108dp"
+					android:layout_height="76dp"
+					android:text="@string/_3000_00fc_m_38_10_string"
+					 />
+
+				<TextView android:id="@+id/_4000_00fc"
+					android:fontFamily="Trebuchet MS"
+					android:alpha="0.9294"
+					 android:textSize="30sp"
+					android:textColor="@color/_12000_00fc_43_45_color"
+					android:layout_marginLeft="1111dp"
+					android:layout_marginTop="413dp"
+					android:layout_width="108dp"
+					android:layout_height="41dp"
+					android:text="@string/_4000_00fc_string"
+					 />
+
+				<TextView android:id="@+id/_15000_00fc_xxl_44_16"
+					android:fontFamily="Trebuchet MS"
+					android:alpha="0.9294"
+					 android:textSize="30sp"
+					android:textColor="@color/_12000_00fc_43_45_color"
+					android:layout_marginLeft="95dp"
+					android:layout_marginTop="779dp"
+					android:layout_width="120dp"
+					android:layout_height="76dp"
+					android:text="@string/_15000_00fc_xxl_44_16_string"
+					 />
+
+				<TextView android:id="@+id/_2500_00fc_xs_34_6"
+					android:fontFamily="Trebuchet MS"
+					android:alpha="0.9294"
+					 android:textSize="30sp"
+					android:textColor="@color/_12000_00fc_43_45_color"
+					android:layout_marginLeft="379dp"
+					android:layout_marginTop="781dp"
+					android:layout_width="108dp"
+					android:layout_height="76dp"
+					android:text="@string/_2500_00fc_xs_34_6_string"
+					 />
+
+				<TextView android:id="@+id/_10_000_00_fc_m"
+					android:fontFamily="Trebuchet MS"
+					android:alpha="0.9294"
+					 android:textSize="30sp"
+					android:textColor="@color/_12000_00fc_43_45_color"
+					android:layout_marginLeft="591dp"
+					android:layout_marginTop="791dp"
+					android:layout_width="131dp"
+					android:layout_height="76dp"
+					android:text="@string/_10_000_00_fc_m_string"
+					 />
+
+				<TextView android:id="@+id/_2000_00fc_12ans_152_150cm"
+					android:fontFamily="Trebuchet MS"
+					android:alpha="0.9294"
+					 android:textSize="30sp"
+					android:textColor="@color/_12000_00fc_43_45_color"
+					android:layout_marginLeft="857dp"
+					android:layout_marginTop="803dp"
+					android:layout_width="191dp"
+					android:layout_height="76dp"
+					android:text="@string/_2000_00fc_12ans_152_150cm_string"
+					 />
+
+				<TextView android:id="@+id/__1500_00fc_8ans_pyjaama_s"
+					android:fontFamily="Trebuchet MS"
+					android:alpha="0.9294"
+					 android:textSize="30sp"
+					android:textColor="@color/_12000_00fc_43_45_color"
+					android:layout_marginLeft="1157dp"
+					android:layout_marginTop="769dp"
+					android:layout_width="112dp"
+					android:layout_height="146dp"
+					android:text="@string/__1500_00fc_8ans_pyjaama_s_string"
+					 />
+
+				<TextView android:id="@+id/______________________________rechercher_des_articles"
+					android:fontFamily="Trebuchet MS"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="25sp"
+					android:textColor="@color/______________________________rechercher_des_articles_color"
+					android:layout_marginLeft="129dp"
+					android:layout_marginTop="25dp"
+					android:layout_width="485dp"
+					android:layout_height="34dp"
+					android:text="@string/______________________________rechercher_des_articles_string"
+					 />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
